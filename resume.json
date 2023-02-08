@@ -1,1 +1,99 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经验","skillList":"个人技能","awardList":"更多信息","workList":"个人作品"},"avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":true},"profile":{"name":"周鑫","email":"zeekerpro@gmail.com","mobile":"18088412517","github":"","zhihu":"","workExpYear":"","workPlace":"远程兼职"},"educationList":[{"edu_time":["2011.09.01","2015.06.30"],"school":"杭州电子科技大学","major":"电子信息技术及仪器","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[{"company_name":"昆明索弗拓科技有限公司 ","department_name":"技术部","work_time":["2021/06"],"work_desc":"全栈开发工程师。负责公司业务系统、小程序和官网的开发维护","dataIndex":0},{"company_name":"昆明东电科技有限公司","department_name":"研发部","work_time":["2019.11","2021.05"],"work_desc":"研发工程师。公司官方网站建设、内部管理系统开发、公司开发框架的开发维护","dataIndex":1},{"company_name":"云南滇东金融交易中心股份有限公司","department_name":"信息技术部","work_time":["2015.07","2018.06"],"work_desc":"运维开发工程师公司内部管理系统开发、公司内部开发环境搭建和系统维护","dataIndex":2}],"skillList":[],"projectList":[{"project_name":"驾驶员心理辅导员职业技能培训在线学习平台","project_role":"项目负责人","project_time":"2022.04 - 至今","project_desc":"由中国交通运输协会培训中心、《中国交通年鉴》社、云南交通职业技术学院、昆明索弗拓科技有限公司联合推出， 北京交通大学、中科博爱（北京）咨询有限公司专业支持，专门为交通行业开发的心理培训课程在线学习系统。","project_content":" 独立负责产品从 0 到 1 的开发、产品功能迭代。 该项目为前后端分离架构，主要包括：\n1. 后端api：restful风格api作为数据接口，技术栈包括：rails API + postgresql + redis + tencent-vod\n2. 前端UI：包括用户端和后台管理端，技术栈为：Vue3 + tailwindcss + typescript + vite，并使用pinia做状态管理\n3. 原生微信小程序： 小程序主要提供用户学习使用，使用原生的微信小程序开发。","dataIndex":0},{"project_name":"德宏供电局设备型号管理库系统","project_role":"开发工程师","project_time":"2019.11 - 2021.04 ","project_desc":"该项目用于德宏供电局管理物资设备型号的后台系统 。","project_content":"作为项目开发成员参与开发，使用spring-boot + vue2 前后端分离架构。\n1、参与项目前端部分功能开发，包括设备管理，厂家和代理商，型号及其型号参数设置的UI开发，\n2、后端开发设备信息参数核查功能修改和生成核查日志，并使用POI生成excel日志文件，添加签名\n3、后端附件上传下载功能及文件预览等通用接口\n\n","dataIndex":1},{"project_name":"滇东金融股份有限公司业务系统","project_role":"运维开发工程师","project_time":"2015.06 - 2018.07","project_desc":"云南滇东金融交易中心是立足云南,面向全国的综合性国资系金融资产交易平台。","project_content":"\n1. 后台管理系统的开发。主要负责的功能是标的发布、检索、放款流标等整套业务功能。技术栈为ruby on rails全栈框架配合bootstrap做用户ui界面，使用promist/fetch API做异步数据请求。\n2. 公司内部开发环境和业务系统维护， 如：使用let‘s encrypt 部署官网https证书配置；生产系统nginx/tomcat中间件配置；gitlab版本控制服务，git runner + CI 自动部署服务； sftp文件服务，frp内网穿透服务等配置； 服务器基础配置，LVM，软raid 防火墙配置，系统升级等；","dataIndex":2}],"workList":[],"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": true
+  },
+  "profile": {
+    "name": "周鑫",
+    "email": "zeekerpro@gmail.com",
+    "mobile": "18088412517",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "远程兼职"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2011.09.01",
+        "2015.06.30"
+      ],
+      "school": "杭州电子科技大学",
+      "major": "电子信息技术及仪器",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "昆明索弗拓科技有限公司 ",
+      "department_name": "技术部",
+      "work_time": [
+        "2021/06"
+      ],
+      "work_desc": "全栈开发工程师。负责公司业务系统、小程序和官网的开发维护",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "昆明东电科技有限公司",
+      "department_name": "研发部",
+      "work_time": [
+        "2019.11",
+        "2021.05"
+      ],
+      "work_desc": "研发工程师。公司官方网站建设、内部管理系统开发、公司开发框架的开发维护",
+      "dataIndex": 1
+    },
+    {
+      "company_name": "云南滇东金融交易中心股份有限公司",
+      "department_name": "信息技术部",
+      "work_time": [
+        "2015.07",
+        "2018.06"
+      ],
+      "work_desc": "运维开发工程师。公司业务系统开发、公司内部开发环境搭建",
+      "dataIndex": 2
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "驾驶员心理辅导员职业技能培训在线学习平台",
+      "project_role": "项目负责人",
+      "project_time": "2022.04 - 至今",
+      "project_desc": "由中国交通运输协会培训中心、《中国交通年鉴》社、云南交通职业技术学院、昆明索弗拓科技有限公司联合推出， 北京交通大学、中科博爱（北京）咨询有限公司专业支持，专门为交通行业开发的心理培训课程在线学习系统。",
+      "project_content": " 独立负责产品从 0 到 1 的开发、产品功能迭代。 该项目为前后端分离架构，主要包括：\n1. 后端api：restful风格api作为数据接口，技术栈包括：rails API + postgresql + redis + tencent-vod\n2. 前端UI：包括用户端和后台管理端，技术栈为：Vue3 + tailwindcss + typescript + vite，并使用pinia做状态管理\n3. 原生微信小程序： 小程序主要提供用户学习使用，使用原生的微信小程序开发。",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "德宏供电局设备型号管理库系统",
+      "project_role": "开发工程师",
+      "project_time": "2019.11 - 2021.04 ",
+      "project_desc": "该项目用于德宏供电局管理物资设备型号的后台系统 。",
+      "project_content": "作为项目开发成员参与开发，使用spring-boot + vue2 前后端分离架构。\n1、参与项目前端部分功能开发，包括设备管理，厂家和代理商，型号及其型号参数设置的UI开发，\n2、后端开发设备信息参数核查功能修改和生成核查日志，并使用POI生成excel日志文件，添加签名\n3、后端附件上传下载功能及文件预览等通用接口\n\n",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "滇东金融股份有限公司业务系统",
+      "project_role": "运维开发工程师",
+      "project_time": "2015.06 - 2018.07",
+      "project_desc": "云南滇东金融交易中心是立足云南,面向全国的综合性国资系金融资产交易平台。该系统为平台提供信息化支撑",
+      "project_content": "\n1. 后台管理系统的开发。主要负责的功能是标的发布、检索、放款流标等整套业务功能。技术栈为ruby on rails全栈框架配合bootstrap做用户ui界面，使用promist/fetch API做异步数据请求。\n2. 公司内部开发环境和业务系统维护， 如：使用let‘s encrypt 部署官网https证书配置；生产系统nginx/tomcat中间件配置；gitlab版本控制服务，git runner + CI 自动部署服务； sftp文件服务，frp内网穿透服务等配置； 服务器基础配置，LVM，软raid 防火墙配置，系统升级等；",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}

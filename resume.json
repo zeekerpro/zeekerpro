@@ -70,8 +70,8 @@
       "project_name": "驾驶员心理辅导员职业技能培训在线学习平台",
       "project_role": "项目负责人",
       "project_time": "2022.04 - 至今",
-      "project_desc": "由中国交通运输协会培训中心、《中国交通年鉴》社、云南交通职业技术学院、昆明索弗拓科技有限公司联合推出， 北京交通大学、中科博爱（北京）咨询有限公司专业支持，专门为交通行业开发的心理培训课程在线学习系统。",
-      "project_content": " 独立负责产品从 0 到 1 的开发、产品功能迭代。 该项目为前后端分离架构，主要包括：\n1. 后端api：restful风格api作为数据接口，技术栈包括：rails API + postgresql + redis + tencent-vod\n2. 前端UI：包括用户端和后台管理端，技术栈为：Vue3 + tailwindcss + typescript + vite，并使用pinia做状态管理\n3. 原生微信小程序： 小程序主要提供用户学习使用，使用原生的微信小程序开发。",
+      "project_desc": "由中国交通运输协会培训中心、云南交通职业技术学院、昆明索弗拓科技有限公司联合推出， 北京交通大学、中科博爱（北京）咨询有限公司专业支持，为交通行业开发的心理培训课程在线学习系统。",
+      "project_content": " 独立负责产品从 0 到 1 的开发、产品功能迭代。 该项目为前后端分离架构，主要包括：\n1. 后端api：restful风格api作为数据接口，技术栈包括：rails API + postgresql + redis + tencent-vod\n2. 前端UI：包括用户端和后台管理端，技术栈为：Vue3 + tailwindcss + typescript + vite\n3. 原生微信小程序： 小程序主要提供用户学习使用，使用原生的微信小程序开发。",
       "dataIndex": 0
     },
     {
